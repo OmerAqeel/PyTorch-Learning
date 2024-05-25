@@ -2,14 +2,6 @@
 
 Welcome to my PyTorch learning repository! This repository is dedicated to my journey of learning and experimenting with PyTorch, a popular deep learning framework. Here, you will find various scripts, notebooks, and projects that I have created while exploring the capabilities of PyTorch.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Projects](#projects)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
